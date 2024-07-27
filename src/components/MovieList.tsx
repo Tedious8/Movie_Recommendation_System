@@ -1,4 +1,4 @@
-import { Movies } from "../App";
+import { Movies } from "../types/Movies";
 
 interface MovieListProps {
     movies: Movies;
